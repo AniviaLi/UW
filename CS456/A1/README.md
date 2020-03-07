@@ -1,8 +1,10 @@
 ### How To Run the Program
 
 	- Run the server program firstly. On the server machine, navigate to the project directory. 
-	Then, use following command to run the server: bash ./server.sh <req_code>
-
+	Then, use following command to run the server: 
+	```
+	bash ./server.sh <req_code>
+	```
 	<req_code> is an integer and will be checked when client asks for connection
 
 	Server program will print out a SERVER_PORT number for client program to use as parameter <n_port>
