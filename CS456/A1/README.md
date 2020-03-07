@@ -1,4 +1,4 @@
-# How To Run the Program
+### How To Run the Program
 
 	- Run the server program firstly. On the server machine, navigate to the project directory. 
 	Then, use following command to run the server: bash ./server.sh <req_code>
@@ -17,11 +17,11 @@
 	<msg> is the message sending to the server for reversing
 
 
-# Where the Program Built and Tested on
+### Where the Program Built and Tested on
 	
 	The program is built and tested on student.cs machines ubtuntu1804-004 and ubtuntu1804-004 
 
 
-# What Version of Make and Compilers using
+### What Version of Make and Compilers using
 
 	Python 2.7.17
