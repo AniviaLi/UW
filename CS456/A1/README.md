@@ -10,6 +10,7 @@ bash ./server.sh <req_code>
 
 Server program will print out a SERVER_PORT number for client program to use as parameter <n_port>
 
+
 ### Then run the client program
 On the client machine, navigate to the project directory. 
 Then, use following command to run the client: 
