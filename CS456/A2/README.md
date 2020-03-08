@@ -1,4 +1,4 @@
-How To Run the Program
+## How To Run the Program
 
 	- Run nEmulator, receiver, sender of three different machines or a single machine in CS Undergrad Environment.
 
