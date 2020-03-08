@@ -10,11 +10,10 @@ curl ifconfig.me
 ```
 Navigate to this program's directory. 
 
-Type command 
+Make the java program by command:
 ```
 make
 ```
-in terminal to make the java program.
 
 ### Run the nEmulator firstly
 
@@ -40,6 +39,7 @@ On the emulator machine, navigate to the project directory. Use following comman
 
 	<verbose-mode>: set to 1 to output its internal processing
 ```
+
 ### Then run the receiver program
 On the receiver machine, navigate to the project directory. Use following command to run the receiver:
 ```
@@ -53,6 +53,7 @@ java receiver (with following command line parameters in the given order:)
 
 	<name of file into which the recieved data is written>
 ```
+
 ### Finally run the sender program
 On the sender machine, navigate to the project directory. Use following command to run the sender:
 ```
@@ -67,10 +68,10 @@ java sender (with following command line parameters in the given order:)
 	<name of file to be transferred>
 
 ```
+
 ## Where the Program Built and Tested on
 	
 The program is built and tested on student.cs machines ubuntu1804-002, ubuntu1804-004 and ubuntu1804-008.
-
 
 ## What Version of Make and Compilers using
 
