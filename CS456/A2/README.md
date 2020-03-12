@@ -10,6 +10,11 @@ curl ifconfig.me
 ```
 Navigate to this program's directory. 
 
+Make the program by command:
+```
+make
+```
+
 ### Run the nEmulator firstly
 
 On the emulator machine, navigate to the project directory. Use following command to run the emulator:
