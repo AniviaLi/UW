@@ -66,7 +66,6 @@ bash ./sender.sh (with following command line parameters in the given order:)
 	<sender's receiving UDP port number>
 
 	<name of file to be transferred>
-
 ```
 
 ## Where the Program Built and Tested on
