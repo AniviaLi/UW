@@ -2,7 +2,7 @@
 
 ### Notice before running the program
 
-Run nEmulator, receiver, sender of three different machines or a single machine in CS Undergrad Environment.
+Run nEmulator, receiver, sender on three different machines or a single machine in CS Undergrad Environment.
 
 Get the public IP address by command (for Linux): 
 ```
